@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427925846 source:c:\users\toninho09\google drive\projeto\c++\sudokusolver\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+
